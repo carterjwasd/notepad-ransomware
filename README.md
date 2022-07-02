@@ -19,5 +19,12 @@ g_nt.jmp_raise(19, ((DWORD)0xC00002B4L)); // call nt
 ![d](https://github.com/carterjwasd/notepad-ransomware/blob/main/demo.jpg)
 
 #### Warning message
+<hr>
+
 Use it at your own risk. <br>
 The author is not responsible for your actions in using this is.
+
+#### License
+<hr>
+
+free use
