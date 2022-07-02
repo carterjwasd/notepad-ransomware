@@ -1,4 +1,6 @@
 ##### notepad-ransomware
+virustotal: 4b76eaba7150de8027f61V8YutSgDmzEX8pK3gimydac1Sn2eWa9g0c31418a8df, 5/67 <br>
+warn: the disk encryption system has been cut out.
 <hr>
 
 ```cpp
